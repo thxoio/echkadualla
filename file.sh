@@ -16,7 +16,7 @@ sleep 1
 for ((i=0; i<5; i++)); do
   echo "$name"
   sleep 0.5
-  clear  # Очистка экрана
+  clear  
   sleep 0.5
 done
 
